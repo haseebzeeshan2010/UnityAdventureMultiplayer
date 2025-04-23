@@ -675,10 +675,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 31b8aee9-738f-40f9-a274-130e931502e2
+  cloudProjectId: 0d02a849-8c77-4981-8289-5725a1590f93
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Unity-Multiplayer (1)
+  projectName: Unity-Multiplayer (2)
   organizationId: funtyper
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
