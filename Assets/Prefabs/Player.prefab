@@ -859,7 +859,7 @@ GameObject:
   - component: {fileID: 8113551826255101444}
   - component: {fileID: 3295547729863591652}
   - component: {fileID: 231228916543836713}
-  - component: {fileID: 6043625992298249978}
+  - component: {fileID: 8401686279628383968}
   m_Layer: 0
   m_Name: TankTreads
   m_TagString: Untagged
@@ -974,8 +974,8 @@ MonoBehaviour:
   SwitchTransformSpaceWhenParented: 0
   Interpolate: 1
   SlerpPosition: 0
---- !u!61 &6043625992298249978
-BoxCollider2D:
+--- !u!60 &8401686279628383968
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1011,15 +1011,25 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.765625, y: 2.0546875}
-    newSize: {x: 1.765625, y: 2.0546875}
-    adaptiveTilingThreshold: 0.5
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.75, y: 2.05}
-  m_EdgeRadius: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.41581115, y: 0.6446439}
+      - {x: 0, y: 1}
+      - {x: -0.4023523, y: 0.6448963}
+      - {x: -0.6039708, y: 0.2367076}
+      - {x: -0.6133163, y: -0.2263732}
+      - {x: -0.47754806, y: -0.97606605}
+      - {x: 0.48256794, y: -0.97311765}
+      - {x: 0.6157446, y: -0.2589106}
+      - {x: 0.61843276, y: 0.23670763}
+  m_UseDelaunayMesh: 0
 --- !u!1 &9097256110989275040
 GameObject:
   m_ObjectHideFlags: 0
@@ -1204,7 +1214,7 @@ MonoBehaviour:
   serverProjectilePrefab: {fileID: 3542891912377275967, guid: 71205affbfdd176428c0db021e98a60a, type: 3}
   clientProjectilePrefab: {fileID: 6507584236902718231, guid: a25aaaea8d020c3479cbaedb0cd31fac, type: 3}
   muzzleFlash: {fileID: 2388905509623984459}
-  playerCollider: {fileID: 6043625992298249978}
+  playerCollider: {fileID: 8401686279628383968}
   projectileSpeed: 30
   fireRate: 0.75
   muzzleFlashDuration: 0.075
