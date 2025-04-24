@@ -37,7 +37,8 @@ public class PlayerMovement : NetworkBehaviour
     {
         if (!IsOwner) { return; }
 
-        rb.linearVelocity = (Vector2)bodyTransform.up * previousMovementInput.y * movementSpeed;
+        // rb.linearVelocity = (Vector2)bodyTransform.up * previousMovementInput.y * movementSpeed;
+        rb.AddForce((Vector2)bodyTransform.up * previousMovementInput.y * movementSpeed, ForceMode2D.Force); // Apply force to the rigidbody
     }
 
     private void HandleMove(Vector2 movementInput)
