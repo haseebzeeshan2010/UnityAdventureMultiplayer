@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4327772799466d44e95c08e82dd6dfa3
+guid: a8677cb79cc19f047a655135de203252
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 810093528037577262
-    second: fishing-boat_0
+      213: 2701282296595704318
+    second: island2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fishing-boat_0
+      name: island2_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 23
-        width: 290
-        height: 466
+        x: 559
+        y: 157
+        width: 807
+        height: 734
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e22d58d85c70e3b00800000000000000
-      internalID: 810093528037577262
+      spriteID: ef963aecfe1ec7520800000000000000
+      internalID: 2701282296595704318
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fishing-boat_0: 810093528037577262
+      island2_0: 2701282296595704318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
