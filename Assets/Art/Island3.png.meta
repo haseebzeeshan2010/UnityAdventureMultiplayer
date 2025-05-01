@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: d0d87c2abdc608a4092d9597e36edd93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3410314305031552676
+    second: Island3_0
+  - first:
+      213: 4882400142368523563
+    second: Island3_1
+  - first:
+      213: 4665950984834224830
+    second: Island3_2
+  - first:
+      213: 7406685326433845933
+    second: Island3_3
+  - first:
+      213: -1365231248030267082
+    second: Island3_4
+  - first:
+      213: -6680529223619120703
+    second: Island3_5
+  - first:
+      213: -9199194323877500608
+    second: Island3_6
+  - first:
+      213: -4366317184569786278
+    second: Island3_7
+  - first:
+      213: 8317302683872399410
+    second: Island3_8
+  - first:
+      213: -8748748009416925503
+    second: Island3_9
+  - first:
+      213: 4780855845532910453
+    second: Island3_10
+  - first:
+      213: 3795981090488919112
+    second: Island3_11
+  - first:
+      213: -1322576255001788672
+    second: Island3_12
+  - first:
+      213: 6281046703256812526
+    second: Island3_13
+  - first:
+      213: -688275544717876125
+    second: Island3_14
+  - first:
+      213: -2453563206163042084
+    second: Island3_15
+  - first:
+      213: -6982157693765689392
+    second: Island3_16
+  - first:
+      213: -5701713722740179570
+    second: Island3_17
+  - first:
+      213: 5033426505287305193
+    second: Island3_18
+  - first:
+      213: 4463868449045866629
+    second: Island3_19
+  - first:
+      213: 7042754688695332295
+    second: Island3_20
+  - first:
+      213: -8211748545977741753
+    second: Island3_21
+  - first:
+      213: -5739426465737524944
+    second: Island3_22
+  - first:
+      213: 2935719417303775954
+    second: Island3_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Island3_0
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 256
+        width: 761
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeb6d3baced35f20800000000000000
+      internalID: 3410314305031552676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 725
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254139bf05c1c340800000000000000
+      internalID: 4882400142368523563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 717
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb29d6e03b9c0c040800000000000000
+      internalID: 4665950984834224830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 716
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da20035ef05d9c660800000000000000
+      internalID: 7406685326433845933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 704
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63984e8c969bd0de0800000000000000
+      internalID: -1365231248030267082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 688
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1f09ae01ef943a0800000000000000
+      internalID: -6680529223619120703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 649
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049ed797085e55080800000000000000
+      internalID: -9199194323877500608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 661
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50c80587a9b763c0800000000000000
+      internalID: -4366317184569786278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 635
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2301e9959befc6370800000000000000
+      internalID: 8317302683872399410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 615
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce5c4dc904369680800000000000000
+      internalID: -8748748009416925503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_10
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 556
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c65bbf03095240800000000000000
+      internalID: 4780855845532910453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_11
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 544
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84421b890b80ea430800000000000000
+      internalID: 3795981090488919112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 279
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f704447e345ade0800000000000000
+      internalID: -1322576255001788672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_13
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebb24db2b2ca2750800000000000000
+      internalID: 6281046703256812526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 280
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364a089e901c276f0800000000000000
+      internalID: -688275544717876125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_15
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 274
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0fea6734133fdd0800000000000000
+      internalID: -2453563206163042084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 278
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfd55112946a1f90800000000000000
+      internalID: -6982157693765689392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_17
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df91104917fd0b0800000000000000
+      internalID: -5701713722740179570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e78fa20db25ad540800000000000000
+      internalID: 5033426505287305193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_19
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588e37d24b8d2fd30800000000000000
+      internalID: 4463868449045866629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_20
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 271
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cde6e34314ecb160800000000000000
+      internalID: 7042754688695332295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_21
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 268
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8a2484320a0e80800000000000000
+      internalID: -8211748545977741753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_22
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 270
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393d37c9067950b0800000000000000
+      internalID: -5739426465737524944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island3_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 260
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dabb948145cdb820800000000000000
+      internalID: 2935719417303775954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Island3_0: 3410314305031552676
+      Island3_1: 4882400142368523563
+      Island3_10: 4780855845532910453
+      Island3_11: 3795981090488919112
+      Island3_12: -1322576255001788672
+      Island3_13: 6281046703256812526
+      Island3_14: -688275544717876125
+      Island3_15: -2453563206163042084
+      Island3_16: -6982157693765689392
+      Island3_17: -5701713722740179570
+      Island3_18: 5033426505287305193
+      Island3_19: 4463868449045866629
+      Island3_2: 4665950984834224830
+      Island3_20: 7042754688695332295
+      Island3_21: -8211748545977741753
+      Island3_22: -5739426465737524944
+      Island3_23: 2935719417303775954
+      Island3_3: 7406685326433845933
+      Island3_4: -1365231248030267082
+      Island3_5: -6680529223619120703
+      Island3_6: -9199194323877500608
+      Island3_7: -4366317184569786278
+      Island3_8: 8317302683872399410
+      Island3_9: -8748748009416925503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
