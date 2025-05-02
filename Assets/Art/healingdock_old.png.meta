@@ -1,0 +1,1180 @@
+fileFormatVersion: 2
+guid: d8c9ca2d90230b940824e4ca26fe2930
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3485894867313958756
+    second: healingdock_old_0
+  - first:
+      213: -2728276751142334002
+    second: healingdock_old_1
+  - first:
+      213: 5241483515282395745
+    second: healingdock_old_2
+  - first:
+      213: -7425534007628666477
+    second: healingdock_old_3
+  - first:
+      213: 7197209208828567135
+    second: healingdock_old_4
+  - first:
+      213: -6924650206550278625
+    second: healingdock_old_5
+  - first:
+      213: 4811980463896438587
+    second: healingdock_old_6
+  - first:
+      213: 1500320186757874180
+    second: healingdock_old_7
+  - first:
+      213: -8961727373475369431
+    second: healingdock_old_8
+  - first:
+      213: -6894998060611265946
+    second: healingdock_old_9
+  - first:
+      213: -7908115878021373350
+    second: healingdock_old_10
+  - first:
+      213: -4217147649751377232
+    second: healingdock_old_11
+  - first:
+      213: -2340586704180997537
+    second: healingdock_old_12
+  - first:
+      213: -4685193787382182715
+    second: healingdock_old_13
+  - first:
+      213: 2531820464780717001
+    second: healingdock_old_14
+  - first:
+      213: -5481679064829607263
+    second: healingdock_old_15
+  - first:
+      213: 4953780721754788913
+    second: healingdock_old_16
+  - first:
+      213: -5013712181411516115
+    second: healingdock_old_17
+  - first:
+      213: 9038181493493291050
+    second: healingdock_old_18
+  - first:
+      213: -4588161937575308369
+    second: healingdock_old_19
+  - first:
+      213: 8539472479089228715
+    second: healingdock_old_20
+  - first:
+      213: 4888781366648775140
+    second: healingdock_old_21
+  - first:
+      213: 490259392119617240
+    second: healingdock_old_22
+  - first:
+      213: -205756459413456711
+    second: healingdock_old_23
+  - first:
+      213: -6016336199678439315
+    second: healingdock_old_24
+  - first:
+      213: 5426735945381665636
+    second: healingdock_old_25
+  - first:
+      213: 8379292513098977369
+    second: healingdock_old_26
+  - first:
+      213: -8782847464443962480
+    second: healingdock_old_27
+  - first:
+      213: -2062035882262370168
+    second: healingdock_old_28
+  - first:
+      213: 8484681999822720747
+    second: healingdock_old_29
+  - first:
+      213: 8654982740657058477
+    second: healingdock_old_30
+  - first:
+      213: -144017853481353392
+    second: healingdock_old_31
+  - first:
+      213: 2502161775727703381
+    second: healingdock_old_32
+  - first:
+      213: -8057056120651910291
+    second: healingdock_old_33
+  - first:
+      213: 2268035671451039846
+    second: healingdock_old_34
+  - first:
+      213: 5347110719592717685
+    second: healingdock_old_35
+  - first:
+      213: 1924153187748919103
+    second: healingdock_old_36
+  - first:
+      213: -5622981310395763867
+    second: healingdock_old_37
+  - first:
+      213: -3025535045153516580
+    second: healingdock_old_38
+  - first:
+      213: -6399966837480893357
+    second: healingdock_old_39
+  - first:
+      213: 5209060601619752342
+    second: healingdock_old_40
+  - first:
+      213: -1917823801157363973
+    second: healingdock_old_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healingdock_old_0
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1959
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f1b9aa9e2606030800000000000000
+      internalID: 3485894867313958756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_1
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1968
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec15437ffb6332ad0800000000000000
+      internalID: -2728276751142334002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 828
+        width: 1334
+        height: 1131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16219709c7d7db840800000000000000
+      internalID: 5241483515282395745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1956
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399e5b7892433f890800000000000000
+      internalID: -7425534007628666477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1948
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e956a94af91e360800000000000000
+      internalID: 7197209208828567135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_5
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1504
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e3cb45353b6ef90800000000000000
+      internalID: -6924650206550278625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1490
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37aaa8acb697c240800000000000000
+      internalID: 4811980463896438587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_7
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1472
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4020d05c24532d410800000000000000
+      internalID: 1500320186757874180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1448
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e2b126f6c81a380800000000000000
+      internalID: -8961727373475369431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1432
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a124e8bcb0050a0800000000000000
+      internalID: -6894998060611265946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_10
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1390
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52e8e7028ab04290800000000000000
+      internalID: -7908115878021373350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_11
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1368
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba12335e8ea975c0800000000000000
+      internalID: -4217147649751377232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1372
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f521a432bc0948fd0800000000000000
+      internalID: -2340586704180997537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1339
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccc737d219dafeb0800000000000000
+      internalID: -4685193787382182715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1286
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cba15e6c45d22320800000000000000
+      internalID: 2531820464780717001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_15
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1268
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2c2280fe92de3b0800000000000000
+      internalID: -5481679064829607263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_16
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1262
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1345f57f15d5fb440800000000000000
+      internalID: 4953780721754788913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1250
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21fae4b557bb6ab0800000000000000
+      internalID: -5013712181411516115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a285d279e221e6d70800000000000000
+      internalID: 9038181493493291050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1239
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa31bd2e6039350c0800000000000000
+      internalID: -4588161937575308369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_20
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1241
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab7655c9fc428670800000000000000
+      internalID: 8539472479089228715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_21
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1232
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e126a740c078d340800000000000000
+      internalID: 4888781366648775140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_22
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1231
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6b613d150cdc600800000000000000
+      internalID: 490259392119617240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_23
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 831
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83b6e1791052df0800000000000000
+      internalID: -205756459413456711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_24
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 834
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60d7d03a1ea18ca0800000000000000
+      internalID: -6016336199678439315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_25
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 838
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b515a1793af4b40800000000000000
+      internalID: 5426735945381665636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_26
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 835
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950da50352a394470800000000000000
+      internalID: 8379292513098977369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_27
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 827
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b906db3ce0d1680800000000000000
+      internalID: -8782847464443962480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_28
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 833
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88864ab4a4d2263e0800000000000000
+      internalID: -2062035882262370168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_29
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 822
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee85973355afb570800000000000000
+      internalID: 8484681999822720747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_30
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 822
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2300252fcac1870800000000000000
+      internalID: 8654982740657058477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_31
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 829
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ffde97688500ef0800000000000000
+      internalID: -144017853481353392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_32
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 823
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5557fc4c0e679b220800000000000000
+      internalID: 2502161775727703381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_33
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 822
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f72975269f2090800000000000000
+      internalID: -8057056120651910291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_34
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 818
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668f0c63d6ea97f10800000000000000
+      internalID: 2268035671451039846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_35
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 821
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd1088ed0c43a40800000000000000
+      internalID: 5347110719592717685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_36
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 807
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37b5313127f3ba10800000000000000
+      internalID: 1924153187748919103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_37
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 804
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563333f3a4827f1b0800000000000000
+      internalID: -5622981310395763867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_38
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 809
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3112a08e32306d0800000000000000
+      internalID: -3025535045153516580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_39
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 805
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354dbadd110ce27a0800000000000000
+      internalID: -6399966837480893357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 804
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6952705b40d4a4840800000000000000
+      internalID: 5209060601619752342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healingdock_old_41
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 800
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6d936f9658265e0800000000000000
+      internalID: -1917823801157363973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
