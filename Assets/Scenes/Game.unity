@@ -1384,6 +1384,7 @@ GameObject:
   - component: {fileID: 77889346}
   - component: {fileID: 77889344}
   - component: {fileID: 77889345}
+  - component: {fileID: 77889347}
   m_Layer: 0
   m_Name: RespawnHandler
   m_TagString: Untagged
@@ -1446,6 +1447,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &77889347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77889343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f70f8328bee094d915b4d2685cd464, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  shipPrefab: {fileID: 7407646121073648296, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
+  ship: {fileID: 0}
 --- !u!1 &80717697
 GameObject:
   m_ObjectHideFlags: 0
@@ -2952,71 +2968,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5714118444857959012, guid: b4af501ad0f8c8c44b2c8e18241f443e, type: 3}
   m_PrefabInstance: {fileID: 5885065156601270988}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &355605825
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 10.3911
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 5.553623
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.0029245666
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7184948037018231333, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7407646121073648296, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: GlobalObjectIdHash
-      value: 2062568353
-      objectReference: {fileID: 0}
-    - target: {fileID: 7407646121073648296, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: InScenePlacedSourceGlobalObjectIdHash
-      value: 2493605424
-      objectReference: {fileID: 0}
-    - target: {fileID: 7706312255784376466, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-      propertyPath: m_Name
-      value: BotShip
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
 --- !u!1 &357875928
 GameObject:
   m_ObjectHideFlags: 0
@@ -5134,6 +5085,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aba158a762314044894af9f2479246e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
   target: {fileID: 0}
   ShipDetector: {fileID: 0}
   playerSelection: {fileID: 0}
@@ -13274,4 +13226,3 @@ SceneRoots:
   - {fileID: 667508609}
   - {fileID: 7457590}
   - {fileID: 437401285}
-  - {fileID: 355605825}

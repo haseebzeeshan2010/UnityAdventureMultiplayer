@@ -812,7 +812,7 @@ GameObject:
   - component: {fileID: 7397288729357557537}
   m_Layer: 0
   m_Name: BotShip
-  m_TagString: Untagged
+  m_TagString: BotShip
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -950,6 +950,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aba158a762314044894af9f2479246e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
   target: {fileID: 0}
   ShipDetector: {fileID: 4609631811326590911}
   playerSelection: {fileID: 3526988896547374738}

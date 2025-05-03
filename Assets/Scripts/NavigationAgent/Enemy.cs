@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.AI;
-
-public class Enemy : MonoBehaviour
+using Unity.Netcode;
+public class Enemy : NetworkBehaviour
 {
     [SerializeField] public Transform target;
 
@@ -28,7 +28,6 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     public void Update()
     {
-        Debug.Log($"Enemy Position: {playerSelection.playerTransform}"); // Log enemy position
         target = playerSelection.playerTransform; // Assign the player's transform to the variable
         // CheckShipDetector();
         agent.SetDestination(target.position);
