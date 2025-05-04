@@ -5,13 +5,13 @@ using System.Collections;
 public class EnemyRespawnHandler : NetworkBehaviour
 {
     [SerializeField] private NetworkObject shipPrefab;
-    public int ship;
+    private int ship;
 
     private bool spawn = true;
 
 
     float time = 0f;
-    float timeDelay = 3f; // Delay before respawning the ship
+    float timeDelay = 120f; // Delay before respawning the ship
     private void Start()
     {
         // ship = GameObject.FindGameObjectsWithTag("BotShip").Length;
@@ -27,7 +27,7 @@ public class EnemyRespawnHandler : NetworkBehaviour
         {
             RespawnShip();
             time = 0f; // Reset the timer after respawning
-            timeDelay = Random.Range(60f, 120f); // Randomize the delay for the next respawn
+            timeDelay = Random.Range(120f, 480f); // Randomize the delay for the next respawn
         }
         
     }
