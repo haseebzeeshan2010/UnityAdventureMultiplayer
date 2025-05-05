@@ -1461,7 +1461,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShowTopMostFoldoutHeaderGroup: 1
   shipPrefab: {fileID: 7407646121073648296, guid: a4de6c4e1c1a21c479cd680a1d616660, type: 3}
-  ship: {fileID: 0}
 --- !u!1 &80717697
 GameObject:
   m_ObjectHideFlags: 0
