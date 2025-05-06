@@ -18,7 +18,7 @@ public class CoinSpawner : NetworkBehaviour
     {
         if (!IsServer) { return; }
 
-        coinRadius = coinPrefab.GetComponent<CircleCollider2D>().radius;
+        coinRadius = 0.6f;
 
         for (int i = 0; i < maxCoins; i++)
         {
