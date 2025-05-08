@@ -35,7 +35,7 @@ public class CoinSpawner : NetworkBehaviour
 
         coinInstance.SetValue(coinValue);
         coinInstance.GetComponent<NetworkObject>().Spawn();
-
+        coinInstance.transform.rotation = Quaternion.Euler(0f, 0f, Random.Range(0f, 360f));
         coinInstance.OnCollected += HandleCoinCollected;
     }
 

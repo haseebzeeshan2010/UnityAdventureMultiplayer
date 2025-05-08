@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8821419692283065461}
   - component: {fileID: 7559746163178515334}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: TrailSpawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76,7 +76,7 @@ TrailRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 382141545
   m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Time: 1.92
   m_PreviewTimeScale: 1
   m_Parameters:
