@@ -7278,7 +7278,7 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   coinPrefab: {fileID: 4322499594857690840, guid: 91b2e49fc79c1e04a96b37bfe3ab82a8, type: 3}
   maxCoins: 66
-  coinValue: 30
+  coinValue: 20
   xSpawnRange: {x: -50, y: 50}
   ySpawnRange: {x: -50, y: 50}
   layerMask:

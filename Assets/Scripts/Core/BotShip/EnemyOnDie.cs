@@ -38,7 +38,7 @@ public class EnemyOnDie : MonoBehaviour
         for (int i = 0; i < 25; i++)
         {
             BountyCoin coinInstance = Instantiate(coinPrefab, GetSpawnPoint(), Quaternion.identity);
-            coinInstance.SetValue(40);
+            coinInstance.SetValue(60);
             coinInstance.NetworkObject.Spawn();
         }
     }

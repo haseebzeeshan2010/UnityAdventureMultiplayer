@@ -102,6 +102,7 @@ GameObject:
   - component: {fileID: 3816358846931892628}
   - component: {fileID: 1830095383395085073}
   - component: {fileID: 4369071984827948502}
+  - component: {fileID: 7547657060852633824}
   m_Layer: 0
   m_Name: Ship
   m_TagString: Untagged
@@ -167,8 +168,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1297783095
+  m_SortingLayer: 3
   m_SortingOrder: 500
   m_Sprite: {fileID: 8251442924902799996, guid: fe5da3c3c6c8f184ba4dcdf0b38742a9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -457,6 +458,21 @@ MonoBehaviour:
   SwitchTransformSpaceWhenParented: 0
   Interpolate: 1
   SlerpPosition: 0
+--- !u!114 &7547657060852633824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115793343751998909}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b0f9f91396eed44ac732073a14f62d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSelection: {fileID: 3526988896547374738}
+  cannon: {fileID: 7456676926736261338}
+  rotationLerpSpeed: 1
 --- !u!1 &1617207720772076470
 GameObject:
   m_ObjectHideFlags: 0
@@ -482,7 +498,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1617207720772076470}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0.03, z: 0}
   m_LocalScale: {x: 0.21000001, y: 0.21000001, z: 0.21000001}
   m_ConstrainProportionsScale: 1
@@ -490,7 +506,7 @@ Transform:
   - {fileID: 6966876454447073888}
   - {fileID: 2158280506273305531}
   m_Father: {fileID: 8894031315461480466}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!212 &6250683174415787112
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -534,7 +550,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1297783095
   m_SortingLayer: 3
-  m_SortingOrder: 200
+  m_SortingOrder: 1000
   m_Sprite: {fileID: -5333349321414413341, guid: ebe25968cf156bb439e0feb050eecff3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -921,6 +937,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8894031315461480466}
+  - component: {fileID: 7619808264989519776}
   m_Layer: 0
   m_Name: TurretPivot
   m_TagString: Untagged
@@ -944,6 +961,42 @@ Transform:
   - {fileID: 2033092282728377402}
   m_Father: {fileID: 3512033124727908944}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7619808264989519776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7456676926736261338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e96cb6065543e43c4a752faaa1468eb1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  NetworkTransformExpanded: 0
+  AuthorityMode: 0
+  TickSyncChildren: 0
+  UseUnreliableDeltas: 0
+  SyncPositionX: 0
+  SyncPositionY: 0
+  SyncPositionZ: 0
+  SyncRotAngleX: 0
+  SyncRotAngleY: 0
+  SyncRotAngleZ: 1
+  SyncScaleX: 0
+  SyncScaleY: 0
+  SyncScaleZ: 0
+  PositionThreshold: 0.001
+  RotAngleThreshold: 0.01
+  ScaleThreshold: 0.01
+  UseQuaternionSynchronization: 0
+  UseQuaternionCompression: 0
+  UseHalfFloatPrecision: 0
+  InLocalSpace: 0
+  SwitchTransformSpaceWhenParented: 0
+  Interpolate: 1
+  SlerpPosition: 0
 --- !u!1 &7706312255784376466
 GameObject:
   m_ObjectHideFlags: 0
@@ -1181,7 +1234,7 @@ Canvas:
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
-  m_SortingLayerID: -1297783095
+  m_SortingLayerID: 1825502955
   m_SortingOrder: 150
   m_TargetDisplay: 0
 --- !u!114 &984216317790470549
