@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a08aed70565a81b4cb8c33f991c172d8
+guid: 13603f033e6665546b0f83bbc3e8b2ea
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -560645910523198849
-    second: trash4_0
+      213: -3331923184093763045
+    second: Submarine1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: trash4_0
+      name: Submarine1_0
       rect:
         serializedVersion: 2
-        x: 790
-        y: 581
-        width: 221
-        height: 117
+        x: 607
+        y: 486
+        width: 645
+        height: 305
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f724d7ac38f2838f0800000000000000
-      internalID: -560645910523198849
+      spriteID: b1ae3317481a2c1d0800000000000000
+      internalID: -3331923184093763045
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      trash4_0: -560645910523198849
+      Submarine1_0: -3331923184093763045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
